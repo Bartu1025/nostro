@@ -1,5 +1,7 @@
 # nostro
 
+[![ci](https://github.com/Bartu1025/nostro/actions/workflows/ci.yml/badge.svg)](https://github.com/Bartu1025/nostro/actions/workflows/ci.yml)
+
 **A payments settlement core that knows when it doesn't know where the money is.**
 
 `nostro` is a deterministic double-entry ledger with an outbox to an external payment rail and a reconciliation
